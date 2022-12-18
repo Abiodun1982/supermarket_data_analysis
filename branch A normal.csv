@@ -1,0 +1,13 @@
+SN,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total
+1,A,Yangon,Normal,Female,Electronic accessories,17336.15,1752,866.8075," 30,372,934.80 "
+2,A,Yangon,Normal,Female,Fashion accessories,16980.26,1714,849.013," 29,104,165.64 "
+3,A,Yangon,Normal,Female,Food and beverages,16139.45,1603,806.9725," 25,871,538.35 "
+4,A,Yangon,Normal,Female,Health and beauty,17553.74,1771,877.687," 31,087,673.54 "
+5,A,Yangon,Normal,Female,Home and lifestyle,15565.19,1554,778.2595," 24,188,305.26 "
+6,A,Yangon,Normal,Female,Sports and travel,14901.54,1483,745.077," 22,098,983.82 "
+7,A,Yangon,Normal,Male,Sports and travel,16234.12,1640,811.706," 26,623,956.80 "
+8,A,Yangon,Normal,Male,Electronic accessories,17711.11,1772,885.5555," 31,384,086.92 "
+9,A,Yangon,Normal,Male,Fashion accessories,12751.14,1269,637.557," 16,181,196.66 "
+10,A,Yangon,Normal,Male,Food and beverages,17088.77,1718,854.4385," 29,358,506.86 "
+11,A,Yangon,Normal,Male,Health and beauty,17235.59,1738,861.7795," 29,955,455.42 "
+12,A,Yangon,Normal,Male,Home and lifestyle,18462.46,1845,923.123," 34,063,238.70 "

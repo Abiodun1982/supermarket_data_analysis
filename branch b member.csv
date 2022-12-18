@@ -1,0 +1,13 @@
+SN,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total
+1,B,Mandalay,Member,Female,Electronic accessories,618.71,76, 30.94 ," 47,021.96 "
+2,B,Mandalay,Member,Female,Fashion accessories,751.67,79, 37.58 ," 59,381.93 "
+3,B,Mandalay,Member,Female,Food and beverages,17777.84,1743, 888.89 ," 30,986,775.12 "
+4,B,Mandalay,Member,Female,Health and beauty,9636.44,895, 481.82 ," 8,624,613.80 "
+5,B,Mandalay,Member,Female,Home and lifestyle,16654.33,1648, 832.72 ," 27,446,335.84 "
+6,B,Mandalay,Member,Female,Sports and travel,15637.23,1483, 781.86 ," 23,190,012.09 "
+7,B,Mandalay,Member,Male,Electronic accessories,16404.51,1616, 820.23 ," 26,509,688.16 "
+8,B,Mandalay,Member,Male,Fashion accessories,16009.06,1586, 800.45 ," 25,390,369.16 "
+9,B,Mandalay,Member,Male,Food and beverages,14889.46,1480, 744.47 ," 22,036,400.80 "
+10,B,Mandalay,Member,Male,Health and beauty,17279.6,1719, 863.98 ," 29,703,632.40 "
+11,B,Mandalay,Member,Male,Home and lifestyle,17086.86,1698, 854.34 ," 29,013,488.28 "
+12,B,Mandalay,Member,Male,Sports and travel,16427.65,1635, 821.38 ," 26,859,207.75 "

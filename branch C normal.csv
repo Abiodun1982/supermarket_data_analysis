@@ -1,0 +1,13 @@
+SN,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total
+1,C,Naypyitaw,Normal,Female,Electronic accessories,946.23,103,47.3115,97461.69
+2,C,Naypyitaw,Normal,Female,Fashion accessories,743.62,94,37.181,69900.28
+3,C,Naypyitaw,Normal,Female,Food and beverages,838.66,104,41.933,87220.64
+4,C,Naypyitaw,Normal,Female,Health and beauty,805.07,96,40.2535,77286.72
+5,C,Naypyitaw,Normal,Female,Home and lifestyle,805.07,96,40.2535,77286.72
+6,C,Naypyitaw,Normal,Female,Sports and travel,805.07,96,40.2535,77286.72
+7,C,Naypyitaw,Normal,Male,Electronic accessories,828.7,110,41.435,91157
+8,C,Naypyitaw,Normal,Male,Fashion accessories,991.61,85,49.5805,84286.85
+9,C,Naypyitaw,Normal,Male,Food and beverages,821.71,72,41.0855,59163.12
+10,C,Naypyitaw,Normal,Male,Health and beauty,838.77,88,41.9385,73811.76
+11,C,Naypyitaw,Normal,Male,Home and lifestyle,597.4,60,29.87,35844
+12,C,Naypyitaw,Normal,Male,Sports and travel,5039.45,463,251.9725,2333265.35
